@@ -1,4 +1,4 @@
-# 🎯 GunBound Power Calculator — Bot W8 v79
+# 🎯 GunBound Simple Aimbot
 
 > **Real-time power & angle calculator for GunBound (Softnyx) with memory reading, trajectory overlay, wind correction, and multi-mobile physics engine support.**
 
