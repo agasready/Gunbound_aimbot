@@ -1,0 +1,21 @@
+# Mobile Physics Constants
+# Format: MobileName gravedad masa
+# Default proven: Ice 0.608 168.0
+#
+ASate 0.608 168.0
+Aduka 0.63 168.0
+Armor 0.73 143.0
+BigFoot 0.608 168.0
+Boomer 0.433 90.0
+Grub 0.6087 168.0
+Ice 0.6087 168.0
+JD 0.62 168.0
+JFrog 300.0 0.253
+Kalsiddon 0.67 169.0
+Lightning 0.635 145.0
+Mage 0.699 132.0
+Nak 0.9295 110.42
+Random 0.608 168.0
+Raon 0.811 129.0
+Trico 0.608 168.0
+Turtle 0.733 143.0
