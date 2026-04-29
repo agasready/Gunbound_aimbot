@@ -1,4 +1,4 @@
-# 🎯 GunBound Simple Aimbot
+# 🎯 GunBound Power Calculator — Bot W8 v79
 
 > **Real-time power & angle calculator for GunBound (Softnyx) with memory reading, trajectory overlay, wind correction, and multi-mobile physics engine support.**
 
@@ -64,6 +64,8 @@
 - **Python**: 3.8+
 - **Tesseract OCR**: Install from [UB-Mannheim/tesseract](https://github.com/UB-Mannheim/tesseract/wiki), default path: `C:\Program Files\Tesseract-OCR\tesseract.exe`
 - **Run as Administrator** (required for reading game process memory)
+
+> ⚠️ **GunBound must be running in Windowed Mode at 800×600 resolution without a title bar.** The overlay and OCR features will not work correctly in any other display mode.
 
 ### Python Dependencies
 
