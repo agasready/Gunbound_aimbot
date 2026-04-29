@@ -1,6 +1,6 @@
-# 🎯 GunBound Power Calculator — Bot W8 v79
+# 🎯 GunBound SImple Aimbot Triconesia
 
-> **Real-time power & angle calculator for GunBound (Softnyx) with memory reading, trajectory overlay, wind correction, and multi-mobile physics engine support.**
+> **Real-time power & angle calculator for GunBound with memory reading, trajectory overlay, wind correction, and multi-mobile physics engine support.**
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?logo=windows)](https://www.microsoft.com/windows)
