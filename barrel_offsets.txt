@@ -1,0 +1,21 @@
+# Barrel Offsets per Mobile
+# Format: MobileName x y
+# x: + kanan, - kiri (relatif arah tembak)
+# y: + bawah, - atas
+ASate 0 0
+Aduka 0 0
+Armor 0 0
+BigFoot 0 0
+Boomer 0 0
+Grub 0 0
+Ice 0 0
+JD 0 0
+JFrog 0 0
+Kalsiddon 0 0
+Knight 0 0
+Lightning -10 -12
+Mage 0 0
+Nak 0 0
+Raon 0 0
+Trico 0 0
+Turtle 0 0
